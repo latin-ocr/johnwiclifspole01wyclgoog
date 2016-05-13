@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johnwiclifspole01wyclgoog_0122.png"; bbox 0 0 3188 5148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 635 1453 706 1562">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 635 1453 706 1562">
+     <span class='ocr_line' id='line_1_1' title="bbox 635 1453 706 1562; baseline 0.014 -1"><span class='ocrx_word' id='word_1_1' title='bbox 635 1453 706 1562; x_wconf 90' lang='lat' dir='ltr'><strong>A.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 107 1746 1243 2033">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 107 1746 1243 2033">
+     <span class='ocr_line' id='line_1_2' title="bbox 430 1746 915 1844; baseline -0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 430 1748 604 1844; x_wconf 84' lang='lat' dir='ltr'>JOHN</span> <span class='ocrx_word' id='word_1_3' title='bbox 632 1746 915 1843; x_wconf 82' lang='lat' dir='ltr'>WICLIF&#39;S</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 107 1935 1243 2033; baseline -0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 107 1936 408 2033; x_wconf 78' lang='lat' dir='ltr'><strong>POLEMIGAL</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 438 1935 639 2032; x_wconf 78' lang='lat' dir='ltr'>TRAGTS</span> <span class='ocrx_word' id='word_1_6' title='bbox 670 1935 906 2033; x_wconf 80' lang='lat' dir='ltr'>AGAINST</span> <span class='ocrx_word' id='word_1_7' title='bbox 936 1935 1043 2030; x_wconf 83' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1076 1935 1243 2032; x_wconf 80' lang='lat' dir='ltr'><strong>SECTS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 663 2485 691 2567">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 663 2485 691 2567">
+     <span class='ocr_line' id='line_1_4' title="bbox 663 2485 691 2567; baseline 0.036 -1"><span class='ocrx_word' id='word_1_9' title='bbox 663 2485 691 2567; x_wconf 95' lang='grc' dir='ltr'><strong>Ι.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 116 2767 1242 2895">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 116 2767 1242 2895">
+     <span class='ocr_line' id='line_1_5' title="bbox 116 2767 1242 2895; baseline 0.003 -6"><span class='ocrx_word' id='word_1_10' title='bbox 116 2767 212 2890; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 259 2769 762 2895; x_wconf 79' lang='lat' dir='ltr'><strong>FUNDATIONE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 808 2767 1242 2894; x_wconf 77' lang='lat' dir='ltr'><strong>SEOTARUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 6 1598 5148">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 6 1598 5148">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 6 1598 5148; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 6 1598 5148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
